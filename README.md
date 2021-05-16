@@ -1,2 +1,2 @@
 # quickabdest-klon
-quickabdest sitesini klonu dur 
+> sa
